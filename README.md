@@ -9,7 +9,7 @@
 
 Welcome to my GitHub! I'm passionate about Software Development , Mechanical Engineering,  Automating things and continuous learning in the ever-evolving world of technology.
 
-- 🔭 **Currently Working On:** Non Profit to get more people into tech (www.projectskip.me
+- 🔭 **Currently Working On:** Non Profit to get more people into tech (https://www.projectskip.me)
 - 🌱 **Learning:** Learning web scraping, prompt engineering and AI engineering.
 - 👯 **Collaborating:** Open to all kinds of penetration testing projects.
 - 💬 **Ask Me About:** Anything related to hacking, penetration testing, or cybersecurity.
@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about Software Development , Mechanical Eng
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
 ### Languages and Tools:
-[![React][react-shield]][react-url]
+![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
 [![JavaScript][javascript-shield]][javascript-url]
 [![CSS3][css3-shield]][css3-url]
 [![C++][cpp-shield]][cpp-url]
