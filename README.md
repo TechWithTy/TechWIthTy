@@ -96,21 +96,40 @@ Welcome to my GitHub! I'm passionate about Software Development , Mechanical Eng
 [perl-shield]: https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white
 [perl-url]: https://www.perl.org/
 
-### 📚 Essential Resources for Penetration Testers
+### 📚 Essential Resources for Software Developers
 
-- **Cheat Sheets:** [Pentest Book by Six2dez](https://pentestbook.six2dez.com/)
-- **OSINT Tools:** [OSINT Framework](https://osintframework.com/)
-- **Hacking Techniques:** [HackTricks](https://book.hacktricks.xyz/)
+- **Web Development Tutorials:** [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+- **JavaScript and App Development:** [Wes Bos](https://www.youtube.com/user/wesbos)
+- **DevOps and System Administration:** [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)
+- **Comprehensive Software Development Skills:** [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp), [Fireship](https://www.youtube.com/c/Fireship), [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz), [Alex Hyett](https://www.youtube.com/c/AlexHyett), [ArjanCodes](https://www.youtube.com/c/ArjanCodes), [Nick Chapsas](https://www.youtube.com/c/NickChapsas), [Code with Ania Kubów](https://www.youtube.com/c/AniaKub%C3%B3w), [Engineering with Utsav](https://www.youtube.com/c/EngineeringwithUtsav), [Internet Made Coder](https://www.youtube.com/c/InternetMadeCoder)
+- **Technology Trends and Workshops:** [Edureka](https://www.youtube.com/user/edurekaIN)
 
-### 📺 Recommended YouTube Videos
 
-- [The Secret Step-by-Step Guide to Learn Hacking](https://www.youtube.com/watch?v=2TofunAI6fU)
-- [How to Pass Your CompTIA A+ Exams](https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K)
-- [Tailored, Machine Learning-driven Password Guessing Attacks (DefCamp 2018)](https://www.youtube.com/watch?v=iK6ZbD6v9Gg)
+### 📺 Recommended YouTube Videos for Software Developers
+
+- [TheNewBoston - Java Programming Tutorial](https://www.youtube.com/watch?v=Hl-zzrqQoSE) - Most-watched web development channel, offering extensive tutorials on backend and frontend languages.
+- [Derek Banas - Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA) - Web tutorials on different programming languages, suitable for beginners to advanced developers.
+- [Eli The Computer Guy - TCP/IP and Subnet Masking](https://www.youtube.com/watch?v=z04p6-z9wbw) - Diverse topics from web development to networking.
+- [ProgrammingKnowledge - C Programming Tutorial](https://www.youtube.com/watch?v=3lQEunpmtRA) - Video tutorials on top backend/frontend programming languages.
+- [Edureka - Ethical Hacking Full Course](https://www.youtube.com/watch?v=dz7Ntp7KQGA) - Extensive videos on languages like Python and DevOps for beginners.
+- [Fireship - God-Tier Development Roadmap](https://www.youtube.com/watch?v=ryjS1FfN6oI) - High-intensity code tutorials, particularly beneficial for React and TypeScript learners.
+- [Traversy Media - React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A) - Tutorials on the latest web development technologies.
+- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) - High-quality training videos across the entire technology globe.
+- [The Coding Train - p5.js basics](https://www.youtube.com/watch?v=8j0UDiN7my4) - Creative coding, algorithms, and programming projects.
+- [Corey Schafer - Python Tutorials Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Covers a variety of topics including Python, Git, SQL, and JavaScript.
+- [Web Dev Simplified - Full Stack Web Development Course](https://www.youtube.com/watch?v=1Rs2ND1ryYc) - Teaching web development efficiently and practically.
+- [Al Sweigart - Automate Boring Stuff with Python](https://www.youtube.com/watch?v=1F_OgqRuSdI) - Clear, concise tutorials for learning Python.
+- [ArjanCodes - Dependency inversion: write BETTER PYTHON CODE](https://www.youtube.com/watch?v=R2pIutTspQA) - Focuses on software design and code architecture.
+- [Tech With Tim - Django Tutorials](https://www.youtube.com/watch?v=F5mRW0jo-U4) - Programming, software engineering, and machine learning in Python and JavaScript.
+- [Nick Chapsas - 8 await async mistakes in .NET](https://www.youtube.com/watch?v=ReRseU2F7rI) - Focuses on .NET and C#, offering valuable resources for asynchronous programming.
+- [The Net Ninja - Bootstrap tutorial](https://www.youtube.com/watch?v=5GcQtLDGXy8) - Covers a wide range of programming topics.
+- [Google Tech Talks - Piers Ridyard, CEO RDX Works Interview](https://www.youtube.com/watch?v=gdSlcxxYAA8) - In-depth discussions on the impact of technology.
+
+
 
 ### 📈 GitHub Stats
 
-![pentestfunctions' GitHub Stats](https://github-readme-stats.vercel.app/api?username=pentestfunctions&show_icons=true&theme=radical)
+![techwithty' GitHub Stats](https://github-readme-stats.vercel.app/api?username=techwithty&show_icons=true&theme=radical)
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
