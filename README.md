@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/techwithty/techwithty/blob/main/monster.png">
+  <img src="https://github.com/techwithty/techwithty/blob/main/monster_2.png">
 </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/techwithty/count.svg">
