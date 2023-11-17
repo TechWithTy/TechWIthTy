@@ -31,6 +31,9 @@ Welcome to my GitHub! I'm passionate about Software Development , Mechanical Eng
 
 ### Languages and Tools (Back End):
 [![Python][python-shield]][python-url]
+![OpenGL](https://img.shields.io/static/v1?style=for-the-badge&message=OpenGL&color=5586A4&logo=OpenGL&logoColor=FFFFFF&label=)
+![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
+
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ![PlanetScale](https://img.shields.io/static/v1?style=for-the-badge&message=PlanetScale&color=000000&logo=PlanetScale&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
@@ -39,7 +42,6 @@ Welcome to my GitHub! I'm passionate about Software Development , Mechanical Eng
 ![ChatBot](https://img.shields.io/static/v1?style=for-the-badge&message=ChatBot&color=0066FF&logo=ChatBot&logoColor=FFFFFF&label=)
 ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
 [![Node.js][nodejs-shield]][nodejs-url]
-
 [![C++][cpp-shield]][cpp-url]
 
 
@@ -49,7 +51,7 @@ Welcome to my GitHub! I'm passionate about Software Development , Mechanical Eng
 ![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-
+![OpenVPN](https://img.shields.io/static/v1?style=for-the-badge&message=OpenVPN&color=EA7E20&logo=OpenVPN&logoColor=FFFFFF&label=)
 
 ### Languages and Tools (Other):
 [![Kali Linux][kali-linux-shield]][kali-linux-url]
