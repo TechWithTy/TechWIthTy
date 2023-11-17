@@ -1,33 +1,33 @@
 <p align="center">
-  <img src="https://github.com/pentestfunctions/pentestfunctions/blob/main/binia.PNG">
+  <img src="[https://github.com/pentestfunctions/pentestfunctions/blob/main/binia.PNG](https://avatars.githubusercontent.com/u/37724661?v=4)">
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/pentestfunctions/count.svg">
+  <img src="https://profile-counter.glitch.me/techwithty/count.svg">
 </p>
 
-## Ethical Hacker | Penetration Tester | Security Researcher
+## Software Developer | Mechanical Engineer | Automation Specialist
 
-Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, and continuous learning in the ever-evolving world of technology.
+Welcome to my GitHub! I'm passionate about Software Development , Mechanical Engineering,  Automating things and continuous learning in the ever-evolving world of technology.
 
-- 🔭 **Currently Working On:** A new hacking course with a certificate for completion.
-- 🌱 **Learning:** Rust and advanced penetration testing techniques.
+- 🔭 **Currently Working On:** Non Profit to get more people into tech (www.projectskip.me
+- 🌱 **Learning:** Learning web scraping, prompt engineering and AI engineering.
 - 👯 **Collaborating:** Open to all kinds of penetration testing projects.
 - 💬 **Ask Me About:** Anything related to hacking, penetration testing, or cybersecurity.
-- 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec)
+- 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec) ~Death
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
 ### Languages and Tools:
-
-[![Python][python-shield]][python-url]
-[![Rust][rust-shield]][rust-url]
-[![Bash][bash-shield]][bash-url]
-[![Kali Linux][kali-linux-shield]][kali-linux-url]
-[![Metasploit][metasploit-shield]][metasploit-url]
-[![C][c-shield]][c-url]
-[![C++][cpp-shield]][cpp-url]
-[![HTML5][html5-shield]][html5-url]
+[![React][react-shield]][react-url]
 [![JavaScript][javascript-shield]][javascript-url]
 [![CSS3][css3-shield]][css3-url]
+[![C++][cpp-shield]][cpp-url]
+[![HTML5][html5-shield]][html5-url]
+[![Python][python-shield]][python-url]
+[![Bash][bash-shield]][bash-url]
+[![Kali Linux][kali-linux-shield]][kali-linux-url]
+
+
+
 [![Node.js][nodejs-shield]][nodejs-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
