@@ -16,25 +16,49 @@ Welcome to my GitHub! I'm passionate about Software Development , Mechanical Eng
 - 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec) ~Death
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
-### Languages and Tools:
+### Languages and Tools (Front End):
 ![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
-[![JavaScript][javascript-shield]][javascript-url]
+![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label=)
+![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=0055FF&logo=Framer&logoColor=FFFFFF&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
+![Material Design Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design+Icons&color=2196F3&logo=Material+Design+Icons&logoColor=FFFFFF&label=)
 [![CSS3][css3-shield]][css3-url]
-[![C++][cpp-shield]][cpp-url]
 [![HTML5][html5-shield]][html5-url]
+[![JavaScript][javascript-shield]][javascript-url]
+![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=F16822&logo=Web3.js&logoColor=FFFFFF&label=)
+
+### Languages and Tools (Back End):
 [![Python][python-shield]][python-url]
-[![Bash][bash-shield]][bash-url]
-[![Kali Linux][kali-linux-shield]][kali-linux-url]
-
-
-
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![PlanetScale](https://img.shields.io/static/v1?style=for-the-badge&message=PlanetScale&color=000000&logo=PlanetScale&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![Apollo GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=Apollo+GraphQL&color=311C87&logo=Apollo+GraphQL&logoColor=FFFFFF&label=)
+![ChatBot](https://img.shields.io/static/v1?style=for-the-badge&message=ChatBot&color=0066FF&logo=ChatBot&logoColor=FFFFFF&label=)
+![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
 [![Node.js][nodejs-shield]][nodejs-url]
+
+[![C++][cpp-shield]][cpp-url]
+
+
+### Languages and Tools (QA CI/CD):
+![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)
+![Jenkins X](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins+X&color=222222&logo=Jenkins+X&logoColor=73C3D5&label=)
+![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
+
+
+### Languages and Tools (Other):
+[![Kali Linux][kali-linux-shield]][kali-linux-url]
+[![Bash][bash-shield]][bash-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
 [![PowerShell][powershell-shield]][powershell-url]
 [![Batch][batch-shield]][batch-url]
-[![Ruby][ruby-shield]][ruby-url]
-[![Perl][perl-shield]][perl-url]
+
 
 <!-- Shields Links -->
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
