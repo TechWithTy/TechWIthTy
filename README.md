@@ -11,8 +11,8 @@ Welcome to my GitHub! I'm passionate about Software Development , Mechanical Eng
 
 - 🔭 **Currently Working On:** Non Profit to get more people into tech (https://www.projectskip.me)
 - 🌱 **Learning:** Learning web scraping, prompt engineering and AI engineering.
-- 👯 **Collaborating:** Open to all kinds of penetration testing projects.
-- 💬 **Ask Me About:** Anything related to hacking, penetration testing, or cybersecurity.
+- 👯 **Collaborating:** Open to all kinds of software development projects.
+- 💬 **Ask Me About:** Anything related to software development, data structures, or data science.
 - 📫 **Reach Me At:** [Discord - OwlSec](https://discord.gg/owlsec) ~Death
 - ⚡ **Fun Fact:** I approach everything with a sense of fun and curiosity. Life's too short to be too serious!
 
