@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/techwithty/count.svg">
 </p>
 
-## Software Developer | Mechanical Engineer | Automation Specialist
+## Software Engineer | Data Scientist | Automation Specialist
 
 Welcome to my GitHub! I'm passionate about Software Development , Mechanical Engineering,  Automating things and continuous learning in the ever-evolving world of technology.
 
