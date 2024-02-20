@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/techwithty/techwithty/blob/main/monster_2.jpg">
-</p>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/techwithty/count.svg">
 </p>
